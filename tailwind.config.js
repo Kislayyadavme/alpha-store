@@ -1,0 +1,1 @@
+module.exports = { content: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}', './app/**/*.{js,ts,jsx,tsx}'], theme: { extend: { colors: { 'alpha-gold': '#D4AF37', 'alpha-dark': '#1A1A1A', 'alpha-light': '#F5F5F5', 'alpha-accent': '#C41E3A' }, fontFamily: { 'alpha-serif': ['Georgia', 'serif'], 'alpha-sans': ['Inter', 'sans-serif'] } } }, plugins: [] }
